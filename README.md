@@ -1,9 +1,10 @@
 # Procedural Execution
 ## About the Project
 This project is based on the "Laser Tag" template from ROBLOX, but has been heavily modified from that. Core features include:
+* 3 vs 3 competitive multiplayer shooter action
 * 1,000,000,000+ possible randomly generated maps
 * Over a dozen custom weapons and tools to do combat with
-* Voice Chat capability for a social experience
+* Voice chat capability for a social experience
 
 ### Map Generation Overview
 Here is an overview of how the mapmaking algorithm currently works (as of January 2026):
